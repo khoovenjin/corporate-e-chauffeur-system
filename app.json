@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "Chauffeseur",
+    "slug": "Chauffeseur",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./app/assets/background.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.chauffeseur",
+      "config": {
+        "googleMapsApiKey": "AIzaSyC2yMt1kgmi2NsSz-iSSC2gKBz-9cLdyGs"
+      },
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "location",
+          "fetch"
+        ]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.chauffeseur",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyC2yMt1kgmi2NsSz-iSSC2gKBz-9cLdyGs"
+        }
+      },
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "FOREGROUND_SERVICE",
+        "ACCESS_BACKGROUND_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    }
+  }
+}
