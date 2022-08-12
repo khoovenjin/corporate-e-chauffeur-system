@@ -34,5 +34,5 @@ Final Year Project Year 3 Software Engineering (FYP)
 ## App Preview 👁️‍🗨️
 
 <div align="center">
-  <img src="repo_image_assets/RideScreen.jpeg" alt="logo" height="130" />
+  <img src="repo_image_assets/RideScreen.jpeg" alt="logo" height="400" />
 </div>
