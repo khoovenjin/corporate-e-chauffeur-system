@@ -4,8 +4,8 @@
 
 Final Year Project Year 3 Software Engineering (FYP)
 
-## Types of Users:
+## Target Users:
 
-1. Corporate entities as Passengers
-2. Chauffeur as Drivers
-3. System Administrators
+1. Passengers
+2. Chauffeurs as Drivers
+3. Corporates
