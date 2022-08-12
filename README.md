@@ -3,7 +3,9 @@
 </h1>
 Final Year Project Year 3 Software Engineering (FYP)
 </br>
+
 ## Supported Platforms 📱
+
 <div display="flex">
   <table width="auto" align="center" >
   <tr>
@@ -22,6 +24,7 @@ Final Year Project Year 3 Software Engineering (FYP)
   </tr>
   </table >
 </div>
+
 ## Target Users:
 
 1. Passengers
