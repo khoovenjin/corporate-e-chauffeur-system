@@ -69,3 +69,14 @@ Final Year Project Year 3 Software Engineering (FYP)
   &nbsp;&nbsp;&nbsp;
   <img src="repo_image_assets/RideCompletedAnimation.jpeg" alt="logo" height="400" />
 </div>
+
+## Chauffeur UI Screens:
+
+<div align="center">
+  <img src="repo_image_assets/DutyScreen.jpeg" alt="logo" height="400" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="repo_image_assets/DutyMatched.jpeg" alt="logo" height="400" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="repo_image_assets/DutyMatchedViewLocation.jpeg" alt="logo" height="400" />
+</div>
+</br>
