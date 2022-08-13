@@ -80,3 +80,10 @@ Final Year Project Year 3 Software Engineering (FYP)
   <img src="repo_image_assets/DutyMatchedViewLocation.jpeg" alt="logo" height="400" />
 </div>
 </br>
+<div align="center">
+  <img src="repo_image_assets/DutyPickUp.jpeg" alt="logo" height="400" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="repo_image_assets/DutyCompleted.jpeg" alt="logo" height="400" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="repo_image_assets/DutyCompletedRide.jpeg" alt="logo" height="400" />
+</div>
