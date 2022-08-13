@@ -64,3 +64,8 @@ Final Year Project Year 3 Software Engineering (FYP)
   &nbsp;&nbsp;&nbsp;
   <img src="repo_image_assets/RideFoundDriverAnimation.jpeg" alt="logo" height="400" />
 </div>
+<div align="center">
+  <img src="repo_image_assets/RideOnRideScreen.jpeg" alt="logo" height="400" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="repo_image_assets/RideCompletedAnimation.jpeg" alt="logo" height="400" />
+</div>
