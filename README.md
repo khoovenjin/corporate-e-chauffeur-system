@@ -123,7 +123,7 @@ Final Year Project Year 3 Software Engineering (FYP)
 </div>
 </br>
 <div align="center">
-  <img src="repo_image_assets/SettingScreen.jpeg" alt="logo" height="400" />
-  &nbsp;&nbsp;&nbsp;
   <img src="repo_image_assets/SecurityScreen.jpeg" alt="logo" height="400" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="repo_image_assets/SettingScreen.jpeg" alt="logo" height="400" />
 </div>
