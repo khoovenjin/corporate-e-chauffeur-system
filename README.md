@@ -34,5 +34,13 @@ Final Year Project Year 3 Software Engineering (FYP)
 ## App Preview 👁️‍🗨️
 
 <div align="center">
+  <img src="repo_image_assets/LoginScreen.jpeg" alt="logo" height="400" />
+  <img src="repo_image_assets/RegisterScreen.jpeg" alt="logo" height="400" />
+</div>
+
+## Passenger UI Screens :
+
+<div align="center">
   <img src="repo_image_assets/RideScreen.jpeg" alt="logo" height="400" />
+  <img src="repo_image_assets/RideDetailsScreen.jpeg" alt="logo" height="400" />
 </div>
