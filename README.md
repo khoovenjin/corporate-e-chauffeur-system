@@ -103,3 +103,19 @@ Final Year Project Year 3 Software Engineering (FYP)
   &nbsp;&nbsp;&nbsp;
   <img src="repo_image_assets/CorpPassengerConnection.jpeg" alt="logo" height="400" />
 </div>
+
+## General UI Screens:
+
+<div align="center">
+  <img src="repo_image_assets/Analytic1.jpeg" alt="logo" height="400" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="repo_image_assets/Analytic2.jpeg" alt="logo" height="400" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="repo_image_assets/Analytics2.jpeg" alt="logo" height="400" />
+</div>
+</br>
+<div align="center">
+  <img src="repo_image_assets/Analytics3.jpeg" alt="logo" height="400" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="repo_image_assets/ActivityScreen.jpeg" alt="logo" height="400" />
+</div>
