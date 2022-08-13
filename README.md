@@ -85,5 +85,5 @@ Final Year Project Year 3 Software Engineering (FYP)
   &nbsp;&nbsp;&nbsp;
   <img src="repo_image_assets/DutyCompleted.jpeg" alt="logo" height="400" />
   &nbsp;&nbsp;&nbsp;
-  <img src="repo_image_assets/DutyCompletedRide.jpeg" alt="logo" height="400" />
+  <img src="repo_image_assets/DutyCompleteRide.jpeg" alt="logo" height="400" />
 </div>
